@@ -1,0 +1,87 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 12:56:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 13:19:22 --> Severity: Warning --> move_uploaded_file(uploads/images/gallery/17207705626690e002ae060.png): failed to open stream: No such file or directory /home/n3w83j5wbf8j/public_html/ayush/application/models/Gallery_model.php 93
+ERROR - 2024-07-12 13:19:22 --> Severity: Warning --> move_uploaded_file(): Unable to move '/tmp/phpzdMzv0' to 'uploads/images/gallery/17207705626690e002ae060.png' /home/n3w83j5wbf8j/public_html/ayush/application/models/Gallery_model.php 93
+ERROR - 2024-07-12 13:22:03 --> Severity: Warning --> move_uploaded_file(uploads/images/gallery/17207707236690e0a303224.png): failed to open stream: No such file or directory /home/n3w83j5wbf8j/public_html/ayush/application/models/Gallery_model.php 75
+ERROR - 2024-07-12 13:22:03 --> Severity: Warning --> move_uploaded_file(): Unable to move '/tmp/phpTb0m3g' to 'uploads/images/gallery/17207707236690e0a303224.png' /home/n3w83j5wbf8j/public_html/ayush/application/models/Gallery_model.php 75
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:07:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:18:07 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/n3w83j5wbf8j/public_html/ayush/application/views/ayush/speciality_details.php 127
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:23:31 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 91
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:41:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:42:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:43:19 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:13 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:44:55 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:44:55 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:44:55 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:44:55 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 78
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:03 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/services_edit.php 143
+ERROR - 2024-07-12 14:45:20 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:45:20 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:45:20 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 14:45:20 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 78
+ERROR - 2024-07-12 14:46:28 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 78
+ERROR - 2024-07-12 18:04:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 18:04:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 18:04:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 18:05:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
+ERROR - 2024-07-12 18:05:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given /home/n3w83j5wbf8j/public_html/ayush/application/views/frontend/procedure_edit.php 56
